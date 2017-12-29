@@ -2,25 +2,25 @@
 
 1. Running CentOS Virtual Machine
 
-   a. Install _VMware Player_ on your Windows computer.
+   a. Install __VMware Player__ on your Windows computer.
 
-   b. Open the folder, _oss-CFS-101-VM-Archive_.
+   b. Open the folder, __oss-CFS-101-VM-Archive__.
 
-   c. Right click on the file, _oss-CFS-101-VM.zip.001_, and select _7-Zip_ -> _Extract to "oss-CFS-101-VM"_
+   c. Right click on the file, __oss-CFS-101-VM.zip.001__, and select __7-Zip -> Extract to "oss-CFS-101-VM"__
 
-   d. Open the folder, _oss-CFS-101-VM_.
+   d. Open the folder, __oss-CFS-101-VM__.
 
-   e. Right click on the file, _CentOS-6.8-CFS-101.vmx_, and select _Open with VMware Player_
+   e. Right click on the file, __CentOS-6.8-CFS-101.vmx__, and select __Open with VMware Player__
 
-   f. Log in as _dev_ user with password _cfs101!!_
+   f. Log in as __dev__ user with password __cfs101!!__
       
 2. Getting to the training guide
 
-   a. Uncompress the file, _oss-CFS-101-Guide.7z_, using 7-Zip application.
+   a. Uncompress the file, __oss-CFS-101-Guide.7z__, using 7-Zip application.
 
-   b. Open the folder, _oss-CFS-101-Guide_.
+   b. Open the folder, __oss-CFS-101-Guide__.
 
-   c. Use your favorite browser to open the file, _oss-CFS-101.html_.
+   c. Use your favorite browser to open the file, __oss-CFS-101.html__.
 
 3. Going through the tutorial
 
