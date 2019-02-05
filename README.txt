@@ -7,6 +7,7 @@
    b. Open the folder, "CFS-101-VM-Archive".
 
    c. Right click on the file, "CFS-101-VM.zip.001", and select "7-Zip -> Extract to "CFS-101-VM"".
+      (If that doesn't produce a complete .vmdk file, try select all .zip files and then extract.)
 
    d. Open the folder, "CFS-101-VM".
 
