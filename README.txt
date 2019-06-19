@@ -2,20 +2,24 @@
 
 1. Running CentOS Virtual Machine
 
-   a. Install "VMware Player" on your Windows computer.
+   a. Install "VirtualBox" on your Windows computer.
+   
+   b. Install "7-Zip", version 19.00 or later.
 
-   b. Open the folder, "CFS-101-VM-Archive".
+   c. Open the folder, "CFS-101-VM-Archive".
 
-   c. Right click on the file, "CFS-101-VM.zip.001", and select "7-Zip -> Extract to "CFS-101-VM"".
-      (If that doesn't produce a complete .vmdk file, try select all .zip files and then extract.)
+   d. Right click on the file, "CFS-101-VM.zip.001", and select "7-Zip -> Extract to "CFS-101-VM"".
+      (If that doesn't produce a complete .vmdk file, try select all .zip files and then extract.
+	   7-Zip 19.00 was used to compress the VM.)
 
-   d. Open the folder, "CFS-101-VM".
+   e. Start Oracle VM VirtualBox Manager. From the top pull-down menu, do a Machine->Add,
+      go to where CFS-101 (VirtualBox Machine Definition) is, select it, and click the
+	  "Open" button below.
 
-   e. Right click on the file, "CentOS-6.10-CFS-101.vmx", and select "Open with VMware Player"
-      (If being prompted to select "I Moved It", "I copied It", or "Cancel",
-	   select "I Copied It".)
+   f. From the Oracle VM VirtualBox Manager, select "CFS-101" machine, and click the "Start"
+      arrow.
 
-   f. Log in as "dev" user with password "cfs101!!"
+   g. Log in as "dev" user with password "cfs101!!"
       
 2. Getting to the training guide
 
